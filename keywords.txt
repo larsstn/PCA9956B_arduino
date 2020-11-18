@@ -1,0 +1,28 @@
+#######################################
+# Classes, datatypes (KEYWORD1)
+#######################################
+
+PCA9956B	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+reset	KEYWORD2
+sleep	KEYWORD2
+wakeup	KEYWORD2
+error	KEYWORD2
+clrerr	KEYWORD2
+setPWM	KEYWORD2
+setIREF	KEYWORD2
+getREG	KEYWORD2
+setREG	KEYWORD2
+chkerrflag	KEYWORD2
+read8	KEYWORD2
+write8	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
